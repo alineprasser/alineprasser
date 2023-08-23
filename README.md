@@ -2,7 +2,6 @@
   
  <div>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alineprasser&count_private=true&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alineprasser&theme=dracula&layout=compact&hide=python" />
 </div>
 
 ##
