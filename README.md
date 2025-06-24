@@ -6,7 +6,7 @@ Frontend Developer
 ------------------
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/9018a7b1-86d8-4552-9e4c-93a1243ceb52" width="150" align="right" style="margin-right: 20px; border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/9018a7b1-86d8-4552-9e4c-93a1243ceb52" width="300" align="right" style="margin-right: 20px; border-radius: 50%;">
 </p>
 
 I have four years of experience as a Front-End Developer, passionate about creating meaningful digital solutions that improve people's lives ❤️
