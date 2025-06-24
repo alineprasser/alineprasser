@@ -1,15 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aline Prasser
+Hi 👋 My name is Aline Prasser 
 =====================================================================================================================================
+
 
 Frontend Developer
 ------------------
+
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/9018a7b1-86d8-4552-9e4c-93a1243ceb52" width="150" align="right" style="margin-right: 20px; border-radius: 50%;">
+</p>
 
 I have four years of experience as a Front-End Developer, passionate about creating meaningful digital solutions that improve people's lives ❤️
 
 My primary focus is Web Development, working extensively with React.js, Vue.js, and Next.js frameworks. I have solid experience with TypeScript, as well as in crafting responsive and accessible interfaces using Tailwind CSS. Additionally, I have a strong background in prototyping and applying UX/UI principles to ensure intuitive user experiences.
 
+
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [alinebprasser@gmail.com](mailto:alinebprasser@gmail.com)
+
+
 
 ### Skills
 
